@@ -1,0 +1,26 @@
+body {  
+
+    background: #233864; 
+  }
+  
+   form {  
+  
+     width: 30%;  
+     margin: 60px auto;  
+     background: #efefef;  
+     padding: 10px 60px; 
+     text-align: left;  
+     -webkit-box-shadow: 2px 2px 3px rgba(0,0,0,0.1); 
+     box-shadow: 2px 2px 3px rgba(0,0,0,0.1); 
+     border-radius: 10px;
+     font-size: large;
+     margin-top: 30px;
+  
+     
+  }
+  label {  
+    display: block;  
+    position: relative;  
+    margin: 40px 0px; 
+    text-size-adjust: 30px;
+}
